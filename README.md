@@ -1,2 +1,3 @@
 # circles
-simple app from course
+Simple app from one of courses.
+Animations and sounds using PaperJS and HowlerJS.
