@@ -32,3 +32,10 @@ body, html {
 	font-family: 'Anton', sans-serif;
 	letter-spacing: 5px;
 }
+
+#speakers {
+	font-size: 20px;
+	color: #99e6ff;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 2px;
+}
